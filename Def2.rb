@@ -1,5 +1,5 @@
-def sub(a, b)
-    a - b
+def mul(a, b)
+    a * b
 end
 
 sum(14, 8)  

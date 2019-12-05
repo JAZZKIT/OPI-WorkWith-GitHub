@@ -2,4 +2,4 @@ def sum(a, b)
     a + b
 end
 
-sum(10, 2)  
+sum(40, 20)  
